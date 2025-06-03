@@ -4,7 +4,7 @@
 \alias{load_data}
 \title{Load a CSV from the package's extdata folder}
 \usage{
-load_data(filename)
+load_data(filename, ...)
 }
 \arguments{
 \item{filename}{A character string, the name of the CSV file to load.}

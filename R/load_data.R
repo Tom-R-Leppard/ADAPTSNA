@@ -4,10 +4,10 @@
 #'
 #' @return A data frame
 #' @export
-load_data <- function(filename) {
-  path <- system.file("extdata", filename, package = "ADAPTSNA")
-  if (path == "") stop("File not found in extdata: ", filename)
-  read.csv(path, stringsAsFactors = FALSE)
+load_data <- function(filename, ...) {
+  filepath <- system.file("extdata", filename, package = "ADAPTSNA")
+  if (filepath == "") stop("File not found: ", filename)
+  read.csv(filepath, ...)
 }
 
 
