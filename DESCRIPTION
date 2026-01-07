@@ -10,7 +10,6 @@ Authors@R: c(
     )
   )
 Description: This packages houses the data used in the book. 
-    Continuation lines should be indented.
 License:  usethis::use_mit_license("Tom R. Leppard")
 Encoding: UTF-8
 LazyData: true
