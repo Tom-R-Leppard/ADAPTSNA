@@ -4,8 +4,8 @@ Title: A companion package to the SNA book.
 Version: 0.1.0
 Authors@R: c(
     person(
-      "Jane", "Doe",
-      email = "jane@example.com",
+      "Tom R.", "Leppard",
+      email = "trleppar@ncsu.edu",
       role = c("aut", "cre")
     )
   )
