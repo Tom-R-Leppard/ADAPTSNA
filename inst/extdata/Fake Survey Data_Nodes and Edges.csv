@@ -1,0 +1,8 @@
+name,age,role,gender,person_1,person_2,person_3,affinity_1,affinity_2,affinity_3,freq_1,freq_2,freq_3
+A,20,manage,F,B,C,D,pos,neg,neg,2,4,5
+B,25,asiss,M,C,E,F,pos,pos,pos,4,3,2
+C,21,tech,F,F,A,D,pos,pos,pos,1,3,5
+D,23,tech,M,G,A,C,neg,neg,pos,5,5,2
+E,24,clerk,M,A,B,G,neg,neg,neg,4,2,2
+F,23,assis,F,D,G,A,pos,pos,pos,3,1,1
+G,22,tech,F,A,E,C,neg,pos,neg,1,1,4
